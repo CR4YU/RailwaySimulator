@@ -1,0 +1,6 @@
+4
+NAME CAPACITY SPEED PATH
+Intercity_1 200 100 0-4-8-3
+Intercity_2 200 120 2-5-7-9-8-4-0
+Intercity_3 150 90 1-6-10-11-9-7-5-2
+Intercity_4 200 100 3-4-5-6-1-2-0

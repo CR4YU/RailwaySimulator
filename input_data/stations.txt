@@ -1,0 +1,11 @@
+9
+NAME PLATFORMS DEPOTS WAIT_TIME_MINUTES
+Gdynia 2 2 20
+Olsztyn 2 2 20
+Gdansk 2 2 20
+Poznan 2 2 20
+Lodz 2 2 20
+Bialystok 2 2 20
+Warszawa 2 2 20
+Wroclaw 2 2 20
+Krakow 2 2 20

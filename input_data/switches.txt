@@ -1,0 +1,5 @@
+3
+TIME_in_minutes
+20
+15
+15
