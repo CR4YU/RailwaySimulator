@@ -1,7 +1,6 @@
 /*
-    Railway system v1
+    Railway system v2
     Author: Paweł Okrutny 
-    Index: 221478
 */
 
 
