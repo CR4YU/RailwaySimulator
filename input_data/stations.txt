@@ -1,11 +1,12 @@
-9
-NAME PLATFORMS DEPOTS WAIT_TIME_MINUTES
-Gdynia 2 2 20
-Olsztyn 2 2 20
-Gdansk 2 2 20
-Poznan 2 2 20
-Lodz 2 2 20
-Bialystok 2 2 20
-Warszawa 2 2 20
-Wroclaw 2 2 20
-Krakow 2 2 20
+10
+NAME PLATFORMS DEPOTS WAIT_TIME_MINUTES VERTEX_INDEX
+Gdynia 2 2 20 0
+Olsztyn 2 2 20 1
+Gdansk 2 2 20 2
+Poznan 2 2 20 3
+Lodz 2 2 20 4
+Bialystok 2 2 20 6
+Warszawa 2 2 20 7
+Wroclaw 2 2 20 8
+Krakow 2 2 20 11
+Repair_Station 1 1 1 12
